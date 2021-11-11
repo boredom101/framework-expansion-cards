@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/boredom101/framework-schemas/main/card.json",
+    "name": "DisplayPort",
+    "function": "displayport",
+    "images": [
+        "https://static.frame.work/v5wxt009fndpg5mqywwd9va9p1k8"
+    ]
+}

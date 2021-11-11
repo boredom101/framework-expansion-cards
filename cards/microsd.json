@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/boredom101/framework-schemas/main/card.json",
+    "name": "MicroSD",
+    "function": "micro-sd",
+    "images": [
+        "https://static.frame.work/7e3k40e9mg15pnajozi77wvotk4f"
+    ]
+}

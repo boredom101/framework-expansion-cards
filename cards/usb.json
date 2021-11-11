@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/boredom101/framework-schemas/main/card.json",
+    "name": "USB-A",
+    "function": "usb-a",
+    "images": [
+        "https://static.frame.work/cbsutrb5lskgq3ids58xxfkpu7lx"
+    ]
+}

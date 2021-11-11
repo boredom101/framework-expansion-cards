@@ -1,0 +1,10 @@
+{
+    "$schema": "https://raw.githubusercontent.com/boredom101/framework-schemas/main/card.json",
+    "name": "Storage",
+    "function": "storage",
+    "images": [
+        "https://static.frame.work/ms3seed52q7kgsgmu83a5x6nhk65"
+    ],
+    "variation": "Storage Capacity",
+    "variants": ["250GB", "1TB"]
+}
